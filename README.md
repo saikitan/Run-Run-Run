@@ -1,7 +1,13 @@
 # Run! Run! Run!
 
-This is a Ruby project that I did in the university! <br/>
-I will add more feature to this game if I have free time! <br/>
-You also can give me idea on what improvement can be made to this game!
+This is a simple platform game developed using Gosu library in Ruby.<br/>
+
+## How to play?
+You have to pick up the coins, avoid falling into hole and kill the monster.<br/>
+Speed will increase during the gameplay.<br/>
+Have fun!<br/>
+
+This is a project I developed during my time in the university so it is pretty simple.
+
 <br/><br/>
-If there is any copyright issue with the resources used in the game, please contact me at "saikitanproduction@gmail.com". I will remove it immediately after verify!
+If there is any copyright issue with the resources used in the game, please contact me and I will remove it immediately after verify!
